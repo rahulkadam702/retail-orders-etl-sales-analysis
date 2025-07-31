@@ -36,7 +36,7 @@ End-to-end data pipeline for retail order analytics using Python for ETL and Mic
 - `.gitignore` — Ignore .pyc, .DS_Store, csv, etc.
 
 ## 📫 Contact
-[Your LinkedIn] | [Your Email]
+kadamrahul853@gmail.com
 
 ---
 
